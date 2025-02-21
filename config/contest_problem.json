@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "letter": "A",
+    "name": "万物起源",
+    "color": "A橙色",
+    "rgb": "#dc8244"
+  },
+  {
+    "id": "2",
+    "letter": "B",
+    "name": "Fever",
+    "color": "B蓝色",
+    "rgb": "#4f70bd"
+  },
+  {
+    "id": "3",
+    "letter": "C",
+    "name": "一闪一闪亮晶晶",
+    "color": "C红色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "4",
+    "letter": "D",
+    "name": "宇宙跳跃",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "5",
+    "letter": "E",
+    "name": "收手吧，Bob",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "6",
+    "letter": "F",
+    "name": "薯条日！",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "7",
+    "letter": "G",
+    "name": "隐秘角落",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "8",
+    "letter": "H",
+    "name": "&quot;原&quot;题",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "9",
+    "letter": "I",
+    "name": "献给你的花束",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  },
+  {
+    "id": "10",
+    "letter": "J",
+    "name": "《我不是烟神》",
+    "color": "D绿色",
+    "rgb": "#4f60bd"
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "acronym": "AC",
+        "name": "Yes - 答案正确",
+        "solved": "true",
+        "penalty": "false"
+    },
+    {
+        "id": "2",
+        "acronym": "WA",
+        "name": "No - 答案错误",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "3",
+        "acronym": "TLE",
+        "name": "No - 运行超时",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "4",
+        "acronym": "NZEC",
+        "name": "No - 返回非零",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "5",
+        "acronym": "CE",
+        "name": "No - 编译错误",
+        "solved": "false",
+        "penalty": "false"
+    },
+    {
+        "id": "6",
+        "acronym": "PE",
+        "name": "No - 格式错误",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "7",
+        "acronym": "SF",
+        "name": "No - 段错误",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "8",
+        "acronym": "MLE",
+        "name": "No - 内存超限",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "9",
+        "acronym": "RE",
+        "name": "No - 运行出错",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "10",
+        "acronym": "OLE",
+        "name": "No - 输出超限",
+        "solved": "false",
+        "penalty": "true"
+    }
+]
