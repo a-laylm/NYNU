@@ -1,0 +1,4830 @@
+{
+    "319824937": {
+        "team_id": "319824937",
+        "name": "*meixintui",
+        "team_name": "何卓源",
+        "organization": "南阳师范学院",
+        "location": "423-9-5",
+        "official": false,
+        "unofficial": true,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "何卓源",
+            null,
+            null
+        ]
+    },
+    "254454494": {
+        "team_id": "254454494",
+        "name": "crhhhhhh",
+        "team_name": "陈媛",
+        "organization": "南阳师范学院",
+        "location": "613-3-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈媛",
+            null,
+            null
+        ]
+    },
+    "437210247": {
+        "team_id": "437210247",
+        "name": "yyjhx",
+        "team_name": "李梓庆",
+        "organization": "南阳师范学院",
+        "location": "613-8-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李梓庆",
+            null,
+            null
+        ]
+    },
+    "566995123": {
+        "team_id": "566995123",
+        "name": "nynu_nobody",
+        "team_name": "潘新禧",
+        "organization": "南阳师范学院",
+        "location": "423-5-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "潘新禧",
+            null,
+            null
+        ]
+    },
+    "251707668": {
+        "team_id": "251707668",
+        "name": "牛客251707668号",
+        "team_name": "周赛婷",
+        "organization": "南阳师范学院",
+        "location": "423-9-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周赛婷",
+            null,
+            null
+        ]
+    },
+    "597411033": {
+        "team_id": "597411033",
+        "name": "宛南小峰",
+        "team_name": "张峰",
+        "organization": "南阳师范学院",
+        "location": "423-3-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张峰",
+            null,
+            null
+        ]
+    },
+    "993382533": {
+        "team_id": "993382533",
+        "name": "闵神小迷弟",
+        "team_name": "曹金晓",
+        "organization": "南阳师范学院",
+        "location": "423-8-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曹金晓",
+            null,
+            null
+        ]
+    },
+    "678950415": {
+        "team_id": "678950415",
+        "name": "雄飒的男人",
+        "team_name": "赵瑞增",
+        "organization": "南阳师范学院",
+        "location": "613-7-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵瑞增",
+            null,
+            null
+        ]
+    },
+    "968205545": {
+        "team_id": "968205545",
+        "name": "慕宗悫之长风_",
+        "team_name": "贺文正",
+        "organization": "南阳师范学院",
+        "location": "613-2-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "贺文正",
+            null,
+            null
+        ]
+    },
+    "111717519": {
+        "team_id": "111717519",
+        "name": "舊識",
+        "team_name": "陈何炜",
+        "organization": "南阳师范学院",
+        "location": "615-3-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈何炜",
+            null,
+            null
+        ]
+    },
+    "418282141": {
+        "team_id": "418282141",
+        "name": "雾野遥a",
+        "team_name": "吴春颖",
+        "organization": "南阳师范学院",
+        "location": "613-1-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴春颖",
+            null,
+            null
+        ]
+    },
+    "623108451": {
+        "team_id": "623108451",
+        "name": "响亮的名字111c",
+        "team_name": "陈鑫宇",
+        "organization": "南阳师范学院",
+        "location": "420-6-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈鑫宇",
+            null,
+            null
+        ]
+    },
+    "583372041": {
+        "team_id": "583372041",
+        "name": "junbx",
+        "team_name": "杨方",
+        "organization": "南阳师范学院",
+        "location": "615-5-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨方",
+            null,
+            null
+        ]
+    },
+    "281431953": {
+        "team_id": "281431953",
+        "name": "小马xiaoma",
+        "team_name": "马子孟",
+        "organization": "南阳师范学院",
+        "location": "420-4-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "马子孟",
+            null,
+            null
+        ]
+    },
+    "564670034": {
+        "team_id": "564670034",
+        "name": "矛盾Idealist",
+        "team_name": "王功成",
+        "organization": "南阳师范学院",
+        "location": "615-5-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王功成",
+            null,
+            null
+        ]
+    },
+    "834904084": {
+        "team_id": "834904084",
+        "name": "SunyBU",
+        "team_name": "孙一卜",
+        "organization": "南阳师范学院",
+        "location": "613-3-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙一卜",
+            null,
+            null
+        ]
+    },
+    "685049059": {
+        "team_id": "685049059",
+        "name": "自由湛蓝的国",
+        "team_name": "陈艺",
+        "organization": "南阳师范学院",
+        "location": "423-2-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈艺",
+            null,
+            null
+        ]
+    },
+    "735986314": {
+        "team_id": "735986314",
+        "name": "CrTiRL",
+        "team_name": "刘海博",
+        "organization": "南阳师范学院",
+        "location": "423-5-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘海博",
+            null,
+            null
+        ]
+    },
+    "193046248": {
+        "team_id": "193046248",
+        "name": "郭丁页",
+        "team_name": "郭思寒",
+        "organization": "南阳师范学院",
+        "location": "615-10-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭思寒",
+            null,
+            null
+        ]
+    },
+    "734660051": {
+        "team_id": "734660051",
+        "name": "Ten_words",
+        "team_name": "李雨潼",
+        "organization": "南阳师范学院",
+        "location": "420-5-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李雨潼",
+            null,
+            null
+        ]
+    },
+    "156157968": {
+        "team_id": "156157968",
+        "name": "牛客156157968号",
+        "team_name": "孙莹莹",
+        "organization": "南阳师范学院",
+        "location": "613-10-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙莹莹",
+            null,
+            null
+        ]
+    },
+    "68680441": {
+        "team_id": "68680441",
+        "name": "乍暖还寒76",
+        "team_name": "张琦龙",
+        "organization": "南阳师范学院",
+        "location": "615-10-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张琦龙",
+            null,
+            null
+        ]
+    },
+    "915310226": {
+        "team_id": "915310226",
+        "name": "顾文",
+        "team_name": "顾文",
+        "organization": "南阳师范学院",
+        "location": "420-3-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "顾文",
+            null,
+            null
+        ]
+    },
+    "470775732": {
+        "team_id": "470775732",
+        "name": "243cz",
+        "team_name": "陈喆",
+        "organization": "南阳师范学院",
+        "location": "613-8-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈喆",
+            null,
+            null
+        ]
+    },
+    "826800218": {
+        "team_id": 826800218,
+        "name": "xinqiu_01",
+        "team_name": "买睿妤",
+        "organization": "南阳师范学院",
+        "location": "613-7-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "买睿妤",
+            null,
+            null
+        ]
+    },
+    "648375775": {
+        "team_id": "648375775",
+        "name": "祝益豪",
+        "team_name": "祝益豪",
+        "organization": "南阳师范学院",
+        "location": "615-4-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "祝益豪",
+            null,
+            null
+        ]
+    },
+    "453486328": {
+        "team_id": "453486328",
+        "name": "sunicew",
+        "team_name": "王旭冰",
+        "organization": "南阳师范学院",
+        "location": "615-2-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王旭冰",
+            null,
+            null
+        ]
+    },
+    "576187714": {
+        "team_id": "576187714",
+        "name": "nysf1209",
+        "team_name": "郭明洋",
+        "organization": "南阳师范学院",
+        "location": "615-9-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭明洋",
+            null,
+            null
+        ]
+    },
+    "458193293": {
+        "team_id": "458193293",
+        "name": "牛客458193293号",
+        "team_name": "范晨",
+        "organization": "南阳师范学院",
+        "location": "615-2-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "范晨",
+            null,
+            null
+        ]
+    },
+    "416889279": {
+        "team_id": "416889279",
+        "name": "小趴菜阿",
+        "team_name": "孙琛杰",
+        "organization": "南阳师范学院",
+        "location": "423-3-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙琛杰",
+            null,
+            null
+        ]
+    },
+    "213643288": {
+        "team_id": "213643288",
+        "name": "攀高",
+        "team_name": "朱函弘",
+        "organization": "南阳师范学院",
+        "location": "423-3-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱函弘",
+            null,
+            null
+        ]
+    },
+    "826764299": {
+        "team_id": "826764299",
+        "name": "欣亿",
+        "team_name": "苟灿欣",
+        "organization": "南阳师范学院",
+        "location": "613-1-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "苟灿欣",
+            null,
+            null
+        ]
+    },
+    "332256224": {
+        "team_id": "332256224",
+        "name": "黄佬的小迷弟一号",
+        "team_name": "周健豪",
+        "organization": "南阳师范学院",
+        "location": "615-2-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周健豪",
+            null,
+            null
+        ]
+    },
+    "874621288": {
+        "team_id": "874621288",
+        "name": "风度翩翩的小学生",
+        "team_name": "余国平",
+        "organization": "南阳师范学院",
+        "location": "615-9-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "余国平",
+            null,
+            null
+        ]
+    },
+    "387582835": {
+        "team_id": "387582835",
+        "name": "想去夏威夷的马里奥在拧螺丝",
+        "team_name": "凌豫",
+        "organization": "南阳师范学院",
+        "location": "423-1-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "凌豫",
+            null,
+            null
+        ]
+    },
+    "94446905": {
+        "team_id": "94446905",
+        "name": "BaPu",
+        "team_name": "鲁贵鸿",
+        "organization": "南阳师范学院",
+        "location": "615-1-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "鲁贵鸿",
+            null,
+            null
+        ]
+    },
+    "996177227": {
+        "team_id": "996177227",
+        "name": "xia_477",
+        "team_name": "夏志雨",
+        "organization": "南阳师范学院",
+        "location": "615-9-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "夏志雨",
+            null,
+            null
+        ]
+    },
+    "563578838": {
+        "team_id": "563578838",
+        "name": "qqq121",
+        "team_name": "杜正祺",
+        "organization": "南阳师范学院",
+        "location": "615-10-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杜正祺",
+            null,
+            null
+        ]
+    },
+    "256759594": {
+        "team_id": "256759594",
+        "name": "kilooo",
+        "team_name": "张冰杰",
+        "organization": "南阳师范学院",
+        "location": "613-7-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张冰杰",
+            null,
+            null
+        ]
+    },
+    "715686317": {
+        "team_id": "715686317",
+        "name": "熊熊变绵羊",
+        "team_name": "熊天宇",
+        "organization": "南阳师范学院",
+        "location": "420-1-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "熊天宇",
+            null,
+            null
+        ]
+    },
+    "635170325": {
+        "team_id": "635170325",
+        "name": "最喜欢穹妹了",
+        "team_name": "吴健涛",
+        "organization": "南阳师范学院",
+        "location": "420-9-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴健涛",
+            null,
+            null
+        ]
+    },
+    "640308037": {
+        "team_id": "640308037",
+        "name": "四角钱铁盒",
+        "team_name": "孙永顺",
+        "organization": "南阳师范学院",
+        "location": "420-8-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙永顺",
+            null,
+            null
+        ]
+    },
+    "535909023": {
+        "team_id": "535909023",
+        "name": "Z_z_zWW",
+        "team_name": "张武通",
+        "organization": "南阳师范学院",
+        "location": "420-4-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张武通",
+            null,
+            null
+        ]
+    },
+    "870891674": {
+        "team_id": "870891674",
+        "name": "龙游小宝",
+        "team_name": "曾令粤",
+        "organization": "南阳师范学院",
+        "location": "423-4-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曾令粤",
+            null,
+            null
+        ]
+    },
+    "586448564": {
+        "team_id": "586448564",
+        "name": "迷城_",
+        "team_name": "周邦豪",
+        "organization": "南阳师范学院",
+        "location": "423-6-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周邦豪",
+            null,
+            null
+        ]
+    },
+    "318742147": {
+        "team_id": "318742147",
+        "name": "李鼎一",
+        "team_name": "李泽坤",
+        "organization": "南阳师范学院",
+        "location": "423-6-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李泽坤",
+            null,
+            null
+        ]
+    },
+    "178755655": {
+        "team_id": "178755655",
+        "name": "yuan_6666",
+        "team_name": "刘任晖",
+        "organization": "南阳师范学院",
+        "location": "420-7-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘任晖",
+            null,
+            null
+        ]
+    },
+    "395897952": {
+        "team_id": "395897952",
+        "name": "麻辣面",
+        "team_name": "谭舒文",
+        "organization": "南阳师范学院",
+        "location": "420-4-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "谭舒文",
+            null,
+            null
+        ]
+    },
+    "366033276": {
+        "team_id": "366033276",
+        "name": "程晓岚",
+        "team_name": "程晓岚",
+        "organization": "南阳师范学院",
+        "location": "420-9-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "程晓岚",
+            null,
+            null
+        ]
+    },
+    "440354558": {
+        "team_id": "440354558",
+        "name": "牛客440354558号",
+        "team_name": "王奕杰",
+        "organization": "南阳师范学院",
+        "location": "615-7-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王奕杰",
+            null,
+            null
+        ]
+    },
+    "507613154": {
+        "team_id": "507613154",
+        "name": "晚枫___",
+        "team_name": "李承霖",
+        "organization": "南阳师范学院",
+        "location": "613-4-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李承霖",
+            null,
+            null
+        ]
+    },
+    "154576943": {
+        "team_id": "154576943",
+        "name": "只想搞钱的牛牛很会编程",
+        "team_name": "王一凡",
+        "organization": "南阳师范学院",
+        "location": "613-6-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王一凡",
+            null,
+            null
+        ]
+    },
+    "426143271": {
+        "team_id": "426143271",
+        "name": "yuanwenshuo",
+        "team_name": "杨文硕",
+        "organization": "南阳师范学院",
+        "location": "420-10-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨文硕",
+            null,
+            null
+        ]
+    },
+    "348599638": {
+        "team_id": "348599638",
+        "name": "大胆向前",
+        "team_name": "李博伦",
+        "organization": "南阳师范学院",
+        "location": "423-9-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李博伦",
+            null,
+            null
+        ]
+    },
+    "664930282": {
+        "team_id": "664930282",
+        "name": "白菜粉条炖鸡腿",
+        "team_name": "高伊贤",
+        "organization": "南阳师范学院",
+        "location": "423-5-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高伊贤",
+            null,
+            null
+        ]
+    },
+    "791905466": {
+        "team_id": "791905466",
+        "name": "别把我卷飞了",
+        "team_name": "殷语含",
+        "organization": "南阳师范学院",
+        "location": "615-4-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "殷语含",
+            null,
+            null
+        ]
+    },
+    "478376268": {
+        "team_id": "478376268",
+        "name": "OK啊老铁",
+        "team_name": "邵子豪",
+        "organization": "南阳师范学院",
+        "location": "423-9-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "邵子豪",
+            null,
+            null
+        ]
+    },
+    "771625644": {
+        "team_id": "771625644",
+        "name": "竺紫馨",
+        "team_name": "杨恩召",
+        "organization": "南阳师范学院",
+        "location": "423-7-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨恩召",
+            null,
+            null
+        ]
+    },
+    "100330764": {
+        "team_id": "100330764",
+        "name": "跑酷猫",
+        "team_name": "潘凯鸣",
+        "organization": "南阳师范学院",
+        "location": "615-5-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "潘凯鸣",
+            null,
+            null
+        ]
+    },
+    "654388241": {
+        "team_id": "654388241",
+        "name": "清辰0202",
+        "team_name": "杨婷",
+        "organization": "南阳师范学院",
+        "location": "613-9-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨婷",
+            null,
+            null
+        ]
+    },
+    "502050863": {
+        "team_id": "502050863",
+        "name": "猫meme",
+        "team_name": "辛爱",
+        "organization": "南阳师范学院",
+        "location": "420-1-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "辛爱",
+            null,
+            null
+        ]
+    },
+    "849594993": {
+        "team_id": "849594993",
+        "name": "xrk123456789",
+        "team_name": "徐仁康",
+        "organization": "南阳师范学院",
+        "location": "420-10-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "徐仁康",
+            null,
+            null
+        ]
+    },
+    "551107902": {
+        "team_id": "551107902",
+        "name": "KLAH",
+        "team_name": "卢佳",
+        "organization": "南阳师范学院",
+        "location": "420-4-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "卢佳",
+            null,
+            null
+        ]
+    },
+    "898111097": {
+        "team_id": "898111097",
+        "name": "past_one",
+        "team_name": "周亮",
+        "organization": "南阳师范学院",
+        "location": "615-4-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周亮",
+            null,
+            null
+        ]
+    },
+    "674098372": {
+        "team_id": "674098372",
+        "name": "侯志通",
+        "team_name": "侯志通",
+        "organization": "南阳师范学院",
+        "location": "613-7-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "侯志通",
+            null,
+            null
+        ]
+    },
+    "841862001": {
+        "team_id": "841862001",
+        "name": "牛客841862001号",
+        "team_name": "罗辉",
+        "organization": "南阳师范学院",
+        "location": "615-6-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "罗辉",
+            null,
+            null
+        ]
+    },
+    "221708518": {
+        "team_id": "221708518",
+        "name": "supperman01",
+        "team_name": "贾育权",
+        "organization": "南阳师范学院",
+        "location": "615-2-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "贾育权",
+            null,
+            null
+        ]
+    },
+    "175001292": {
+        "team_id": "175001292",
+        "name": "伟大的小鱼干拒绝内卷",
+        "team_name": "叶振豪",
+        "organization": "南阳师范学院",
+        "location": "420-4-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "叶振豪",
+            null,
+            null
+        ]
+    },
+    "786613042": {
+        "team_id": "786613042",
+        "name": "牛客786613042号",
+        "team_name": "吴航",
+        "organization": "南阳师范学院",
+        "location": "423-8-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴航",
+            null,
+            null
+        ]
+    },
+    "819303163": {
+        "team_id": "819303163",
+        "name": "守夜冠军在这",
+        "team_name": "曲冠豪",
+        "organization": "南阳师范学院",
+        "location": "420-6-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曲冠豪",
+            null,
+            null
+        ]
+    },
+    "624882665": {
+        "team_id": "624882665",
+        "name": "冠宁",
+        "team_name": "娄文浩",
+        "organization": "南阳师范学院",
+        "location": "613-3-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "娄文浩",
+            null,
+            null
+        ]
+    },
+    "479585449": {
+        "team_id": "479585449",
+        "name": "teye211",
+        "team_name": "姜田野",
+        "organization": "南阳师范学院",
+        "location": "615-3-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "姜田野",
+            null,
+            null
+        ]
+    },
+    "912889807": {
+        "team_id": "912889807",
+        "name": "牛客912889807号",
+        "team_name": "庄翔宇",
+        "organization": "南阳师范学院",
+        "location": "615-8-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "庄翔宇",
+            null,
+            null
+        ]
+    },
+    "537831123": {
+        "team_id": "537831123",
+        "name": "LightBlue",
+        "team_name": "张洪伟",
+        "organization": "南阳师范学院",
+        "location": "613-5-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张洪伟",
+            null,
+            null
+        ]
+    },
+    "936017177": {
+        "team_id": "936017177",
+        "name": "在写日记的雪碧很郁闷",
+        "team_name": "张英瑛",
+        "organization": "南阳师范学院",
+        "location": "420-8-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张英瑛",
+            null,
+            null
+        ]
+    },
+    "469959957": {
+        "team_id": "469959957",
+        "name": "Tianlzy",
+        "team_name": "李卓妍",
+        "organization": "南阳师范学院",
+        "location": "420-10-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李卓妍",
+            null,
+            null
+        ]
+    },
+    "408714566": {
+        "team_id": "408714566",
+        "name": "有力量的里根想当offer收割机",
+        "team_name": "郭剑峰",
+        "organization": "南阳师范学院",
+        "location": "420-6-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭剑峰",
+            null,
+            null
+        ]
+    },
+    "675811002": {
+        "team_id": "675811002",
+        "name": "是炯不是烔",
+        "team_name": "程炯炯",
+        "organization": "南阳师范学院",
+        "location": "615-9-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "程炯炯",
+            null,
+            null
+        ]
+    },
+    "194896788": {
+        "team_id": "194896788",
+        "name": "沐茶茶",
+        "team_name": "曹杰英",
+        "organization": "南阳师范学院",
+        "location": "613-2-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曹杰英",
+            null,
+            null
+        ]
+    },
+    "274863841": {
+        "team_id": "274863841",
+        "name": "MarziaT",
+        "team_name": "侯羿佐",
+        "organization": "南阳师范学院",
+        "location": "420-5-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "侯羿佐",
+            null,
+            null
+        ]
+    },
+    "856769268": {
+        "team_id": "856769268",
+        "name": "ybk137",
+        "team_name": "袁丙坤",
+        "organization": "南阳师范学院",
+        "location": "420-1-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "袁丙坤",
+            null,
+            null
+        ]
+    },
+    "226293407": {
+        "team_id": "226293407",
+        "name": "牛客226293407号",
+        "team_name": "黄智鸿",
+        "organization": "南阳师范学院",
+        "location": "420-8-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄智鸿",
+            null,
+            null
+        ]
+    },
+    "616275227": {
+        "team_id": "616275227",
+        "name": "牛客616275227号",
+        "team_name": "李鹏",
+        "organization": "南阳师范学院",
+        "location": "423-1-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李鹏",
+            null,
+            null
+        ]
+    },
+    "873870931": {
+        "team_id": "873870931",
+        "name": "kkk666666",
+        "team_name": "柯达",
+        "organization": "南阳师范学院",
+        "location": "613-2-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "柯达",
+            null,
+            null
+        ]
+    },
+    "57840529": {
+        "team_id": "57840529",
+        "name": "高辰露",
+        "team_name": "高辰露",
+        "organization": "南阳师范学院",
+        "location": "423-3-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高辰露",
+            null,
+            null
+        ]
+    },
+    "578703667": {
+        "team_id": "578703667",
+        "name": "懒羊羊z_",
+        "team_name": "朱泳",
+        "organization": "南阳师范学院",
+        "location": "420-4-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱泳",
+            null,
+            null
+        ]
+    },
+    "836082513": {
+        "team_id": "836082513",
+        "name": "牛客836082513号",
+        "team_name": "李心洁",
+        "organization": "南阳师范学院",
+        "location": "423-4-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李心洁",
+            null,
+            null
+        ]
+    },
+    "370934870": {
+        "team_id": "370934870",
+        "name": "田祥瑞",
+        "team_name": "田祥瑞",
+        "organization": "南阳师范学院",
+        "location": "613-7-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "田祥瑞",
+            null,
+            null
+        ]
+    },
+    "269230233": {
+        "team_id": "269230233",
+        "name": "舒安鱼",
+        "team_name": "王培瑜",
+        "organization": "南阳师范学院",
+        "location": "613-5-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王培瑜",
+            null,
+            null
+        ]
+    },
+    "442235816": {
+        "team_id": "442235816",
+        "name": "躺平了的小师弟很有气魄",
+        "team_name": "马云飞",
+        "organization": "南阳师范学院",
+        "location": "615-4-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "马云飞",
+            null,
+            null
+        ]
+    },
+    "192531226": {
+        "team_id": "192531226",
+        "name": "在刷题的莲雾很怕黑",
+        "team_name": "朱郁颖",
+        "organization": "南阳师范学院",
+        "location": "423-7-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱郁颖",
+            null,
+            null
+        ]
+    },
+    "626402275": {
+        "team_id": "626402275",
+        "name": "牛客626402275号",
+        "team_name": "宋文豪",
+        "organization": "南阳师范学院",
+        "location": "423-4-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "宋文豪",
+            null,
+            null
+        ]
+    },
+    "584505730": {
+        "team_id": "584505730",
+        "name": "牛客584505730号",
+        "team_name": "王亚哲",
+        "organization": "南阳师范学院",
+        "location": "423-2-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王亚哲",
+            null,
+            null
+        ]
+    },
+    "460280363": {
+        "team_id": "460280363",
+        "name": "和喜羊羊一锅",
+        "team_name": "高树桐",
+        "organization": "南阳师范学院",
+        "location": "615-10-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高树桐",
+            null,
+            null
+        ]
+    },
+    "47474336": {
+        "team_id": "47474336",
+        "name": "w小白",
+        "team_name": "王怡然",
+        "organization": "南阳师范学院",
+        "location": "615-5-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王怡然",
+            null,
+            null
+        ]
+    },
+    "486471669": {
+        "team_id": "486471669",
+        "name": "牛客486471669号",
+        "team_name": "王志豪",
+        "organization": "南阳师范学院",
+        "location": "423-7-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王志豪",
+            null,
+            null
+        ]
+    },
+    "258390714": {
+        "team_id": "258390714",
+        "name": "barry01",
+        "team_name": "刘鹏奇",
+        "organization": "南阳师范学院",
+        "location": "615-8-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘鹏奇",
+            null,
+            null
+        ]
+    },
+    "136183364": {
+        "team_id": "136183364",
+        "name": "_5P00K",
+        "team_name": "熊梦烨",
+        "organization": "南阳师范学院",
+        "location": "615-8-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "熊梦烨",
+            null,
+            null
+        ]
+    },
+    "182276204": {
+        "team_id": "182276204",
+        "name": "Dhr2006",
+        "team_name": "豆浩然",
+        "organization": "南阳师范学院",
+        "location": "423-4-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "豆浩然",
+            null,
+            null
+        ]
+    },
+    "595975382": {
+        "team_id": "595975382",
+        "name": "牛客595975382号",
+        "team_name": "黄霆",
+        "organization": "南阳师范学院",
+        "location": "615-4-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄霆",
+            null,
+            null
+        ]
+    },
+    "186934064": {
+        "team_id": "186934064",
+        "name": "hhy1231",
+        "team_name": "黄浩宇",
+        "organization": "南阳师范学院",
+        "location": "423-5-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄浩宇",
+            null,
+            null
+        ]
+    },
+    "406785660": {
+        "team_id": "406785660",
+        "name": "Skylie",
+        "team_name": "郭瑞宁",
+        "organization": "南阳师范学院",
+        "location": "613-10-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭瑞宁",
+            null,
+            null
+        ]
+    },
+    "216580672": {
+        "team_id": "216580672",
+        "name": "LS霜降",
+        "team_name": "李爽",
+        "organization": "南阳师范学院",
+        "location": "420-8-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李爽",
+            null,
+            null
+        ]
+    },
+    "474932954": {
+        "team_id": "474932954",
+        "name": "JHBLUE",
+        "team_name": "仵佳豪",
+        "organization": "南阳师范学院",
+        "location": "613-8-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "仵佳豪",
+            null,
+            null
+        ]
+    },
+    "954105204": {
+        "team_id": "954105204",
+        "name": "Voyager08",
+        "team_name": "黄枢涛",
+        "organization": "南阳师范学院",
+        "location": "613-10-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄枢涛",
+            null,
+            null
+        ]
+    },
+    "988462805": {
+        "team_id": "988462805",
+        "name": "发狂牛",
+        "team_name": "杨凌恺",
+        "organization": "南阳师范学院",
+        "location": "615-3-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨凌恺",
+            null,
+            null
+        ]
+    },
+    "117972360": {
+        "team_id": "117972360",
+        "name": "qweiewp",
+        "team_name": "王子龙",
+        "organization": "南阳师范学院",
+        "location": "615-4-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王子龙",
+            null,
+            null
+        ]
+    },
+    "729363209": {
+        "team_id": "729363209",
+        "name": "241932",
+        "team_name": "曾嘉伟",
+        "organization": "南阳师范学院",
+        "location": "615-7-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曾嘉伟",
+            null,
+            null
+        ]
+    },
+    "951749546": {
+        "team_id": "951749546",
+        "name": "狄仁杰尼龟",
+        "team_name": "师硕",
+        "organization": "南阳师范学院",
+        "location": "615-7-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "师硕",
+            null,
+            null
+        ]
+    },
+    "771262408": {
+        "team_id": "771262408",
+        "name": "Starpicking",
+        "team_name": "张家硕",
+        "organization": "南阳师范学院",
+        "location": "615-6-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张家硕",
+            null,
+            null
+        ]
+    },
+    "415400343": {
+        "team_id": "415400343",
+        "name": "叶767",
+        "team_name": "金冠博",
+        "organization": "南阳师范学院",
+        "location": "615-7-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "金冠博",
+            null,
+            null
+        ]
+    },
+    "837533976": {
+        "team_id": 837533976,
+        "name": "在拧螺丝的大西瓜很自信",
+        "team_name": "李振明",
+        "organization": "南阳师范学院",
+        "location": "615-6-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李振明",
+            null,
+            null
+        ]
+    },
+    "944958486": {
+        "team_id": "944958486",
+        "name": "小白0309",
+        "team_name": "张立豪",
+        "organization": "南阳师范学院",
+        "location": "423-5-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张立豪",
+            null,
+            null
+        ]
+    },
+    "451337949": {
+        "team_id": "451337949",
+        "name": "Llqvq",
+        "team_name": "谢欣盈",
+        "organization": "南阳师范学院",
+        "location": "420-3-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "谢欣盈",
+            null,
+            null
+        ]
+    },
+    "963687987": {
+        "team_id": "963687987",
+        "name": "tgxin",
+        "team_name": "杨尚远",
+        "organization": "南阳师范学院",
+        "location": "423-1-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨尚远",
+            null,
+            null
+        ]
+    },
+    "307217736": {
+        "team_id": "307217736",
+        "name": "酒小染",
+        "team_name": "陈馨",
+        "organization": "南阳师范学院",
+        "location": "615-8-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈馨",
+            null,
+            null
+        ]
+    },
+    "121533972": {
+        "team_id": "121533972",
+        "name": "682忍",
+        "team_name": "罗亮",
+        "organization": "南阳师范学院",
+        "location": "423-8-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "罗亮",
+            null,
+            null
+        ]
+    },
+    "355290616": {
+        "team_id": "355290616",
+        "name": "贪吃赛螃蟹",
+        "team_name": "项昆",
+        "organization": "南阳师范学院",
+        "location": "420-5-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "项昆",
+            null,
+            null
+        ]
+    },
+    "213406470": {
+        "team_id": "213406470",
+        "name": "牛客213406470号",
+        "team_name": "张景媛",
+        "organization": "南阳师范学院",
+        "location": "420-1-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张景媛",
+            null,
+            null
+        ]
+    },
+    "693957082": {
+        "team_id": "693957082",
+        "name": "眉间点血",
+        "team_name": "李彤",
+        "organization": "南阳师范学院",
+        "location": "423-3-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李彤",
+            null,
+            null
+        ]
+    },
+    "523700321": {
+        "team_id": "523700321",
+        "name": "xm42",
+        "team_name": "谢一菲",
+        "organization": "南阳师范学院",
+        "location": "423-10-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "谢一菲",
+            null,
+            null
+        ]
+    },
+    "516443894": {
+        "team_id": "516443894",
+        "name": "行鑫",
+        "team_name": "王鑫柯",
+        "organization": "南阳师范学院",
+        "location": "613-8-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王鑫柯",
+            null,
+            null
+        ]
+    },
+    "916829626": {
+        "team_id": "916829626",
+        "name": "沉默了无语了",
+        "team_name": "缪亲敏",
+        "organization": "南阳师范学院",
+        "location": "423-8-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "缪亲敏",
+            null,
+            null
+        ]
+    },
+    "570406200": {
+        "team_id": "570406200",
+        "name": "勤劳的花生米在评审",
+        "team_name": "吴梦琴",
+        "organization": "南阳师范学院",
+        "location": "420-8-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴梦琴",
+            null,
+            null
+        ]
+    },
+    "897677757": {
+        "team_id": "897677757",
+        "name": "快支棱起来的卷王很想去大厂",
+        "team_name": "韩景燕",
+        "organization": "南阳师范学院",
+        "location": "423-1-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "韩景燕",
+            null,
+            null
+        ]
+    },
+    "850957135": {
+        "team_id": "850957135",
+        "name": "牛客850957135号",
+        "team_name": "苏小钰",
+        "organization": "南阳师范学院",
+        "location": "420-9-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "苏小钰",
+            null,
+            null
+        ]
+    },
+    "993596235": {
+        "team_id": "993596235",
+        "name": "qjc941",
+        "team_name": "秦锦晨",
+        "organization": "南阳师范学院",
+        "location": "613-4-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "秦锦晨",
+            null,
+            null
+        ]
+    },
+    "333290281": {
+        "team_id": "333290281",
+        "name": "竹雨渐",
+        "team_name": "杨浩冰",
+        "organization": "南阳师范学院",
+        "location": "423-3-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨浩冰",
+            null,
+            null
+        ]
+    },
+    "874350769": {
+        "team_id": "874350769",
+        "name": "普吉岛",
+        "team_name": "丁健国",
+        "organization": "南阳师范学院",
+        "location": "423-5-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "丁健国",
+            null,
+            null
+        ]
+    },
+    "508368153": {
+        "team_id": "508368153",
+        "name": "牛客508368153号",
+        "team_name": "黄金燕",
+        "organization": "南阳师范学院",
+        "location": "615-1-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄金燕",
+            null,
+            null
+        ]
+    },
+    "987470226": {
+        "team_id": "987470226",
+        "name": "阿良夸我猛",
+        "team_name": "彭德森",
+        "organization": "南阳师范学院",
+        "location": "613-10-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "彭德森",
+            null,
+            null
+        ]
+    },
+    "757603906": {
+        "team_id": "757603906",
+        "name": "seventeen小17",
+        "team_name": "林思妍",
+        "organization": "南阳师范学院",
+        "location": "420-5-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "林思妍",
+            null,
+            null
+        ]
+    },
+    "923582935": {
+        "team_id": "923582935",
+        "name": "本欣",
+        "team_name": "陈昌睿",
+        "organization": "南阳师范学院",
+        "location": "423-10-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈昌睿",
+            null,
+            null
+        ]
+    },
+    "183836371": {
+        "team_id": "183836371",
+        "name": "TheXin1431",
+        "team_name": "王嘉鑫",
+        "organization": "南阳师范学院",
+        "location": "423-7-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王嘉鑫",
+            null,
+            null
+        ]
+    },
+    "630928037": {
+        "team_id": "630928037",
+        "name": "程亦轩",
+        "team_name": "孙佳祺",
+        "organization": "南阳师范学院",
+        "location": "613-8-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙佳祺",
+            null,
+            null
+        ]
+    },
+    "160002663": {
+        "team_id": "160002663",
+        "name": "牛客160002663号",
+        "team_name": "宁俊泽",
+        "organization": "南阳师范学院",
+        "location": "423-8-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "宁俊泽",
+            null,
+            null
+        ]
+    },
+    "215359338": {
+        "team_id": "215359338",
+        "name": "汉堡诶",
+        "team_name": "钱怡娴",
+        "organization": "南阳师范学院",
+        "location": "420-1-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "钱怡娴",
+            null,
+            null
+        ]
+    },
+    "509430970": {
+        "team_id": "509430970",
+        "name": "阿mark__",
+        "team_name": "张耀聪",
+        "organization": "南阳师范学院",
+        "location": "613-9-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张耀聪",
+            null,
+            null
+        ]
+    },
+    "127468090": {
+        "team_id": "127468090",
+        "name": "善良的土豆包",
+        "team_name": "曾惠琳",
+        "organization": "南阳师范学院",
+        "location": "613-1-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曾惠琳",
+            null,
+            null
+        ]
+    },
+    "794222321": {
+        "team_id": "794222321",
+        "name": "牛客794222321号",
+        "team_name": "田哲元",
+        "organization": "南阳师范学院",
+        "location": "615-5-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "田哲元",
+            null,
+            null
+        ]
+    },
+    "611566051": {
+        "team_id": "611566051",
+        "name": "SmilingStar",
+        "team_name": "周伊美",
+        "organization": "南阳师范学院",
+        "location": "615-9-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周伊美",
+            null,
+            null
+        ]
+    },
+    "989154123": {
+        "team_id": "989154123",
+        "name": "牛客989154123号",
+        "team_name": "吴小康",
+        "organization": "南阳师范学院",
+        "location": "615-8-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴小康",
+            null,
+            null
+        ]
+    },
+    "627386000": {
+        "team_id": "627386000",
+        "name": "海帕OVO000",
+        "team_name": "刘棉",
+        "organization": "南阳师范学院",
+        "location": "615-5-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘棉",
+            null,
+            null
+        ]
+    },
+    "709684707": {
+        "team_id": "709684707",
+        "name": "jyzbl",
+        "team_name": "张静雅",
+        "organization": "南阳师范学院",
+        "location": "420-5-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张静雅",
+            null,
+            null
+        ]
+    },
+    "370975092": {
+        "team_id": "370975092",
+        "name": "青行",
+        "team_name": "张静仪",
+        "organization": "南阳师范学院",
+        "location": "420-2-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张静仪",
+            null,
+            null
+        ]
+    },
+    "651834372": {
+        "team_id": "651834372",
+        "name": "牛客651834372号",
+        "team_name": "严弘培",
+        "organization": "南阳师范学院",
+        "location": "423-1-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "严弘培",
+            null,
+            null
+        ]
+    },
+    "88726070": {
+        "team_id": "88726070",
+        "name": "lwabmf",
+        "team_name": "李家瑞",
+        "organization": "南阳师范学院",
+        "location": "613-4-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李家瑞",
+            null,
+            null
+        ]
+    },
+    "174170965": {
+        "team_id": "174170965",
+        "name": "jxy8",
+        "team_name": "姜肖言",
+        "organization": "南阳师范学院",
+        "location": "615-7-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "姜肖言",
+            null,
+            null
+        ]
+    },
+    "631987582": {
+        "team_id": "631987582",
+        "name": "沐韶",
+        "team_name": "张育铭",
+        "organization": "南阳师范学院",
+        "location": "423-8-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张育铭",
+            null,
+            null
+        ]
+    },
+    "214596251": {
+        "team_id": "214596251",
+        "name": "然然ovo",
+        "team_name": "张文豪",
+        "organization": "南阳师范学院",
+        "location": "613-7-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张文豪",
+            null,
+            null
+        ]
+    },
+    "841147038": {
+        "team_id": "841147038",
+        "name": "1ne7even",
+        "team_name": "余怡晴",
+        "organization": "南阳师范学院",
+        "location": "423-9-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "余怡晴",
+            null,
+            null
+        ]
+    },
+    "997429090": {
+        "team_id": "997429090",
+        "name": "牛客997429090号",
+        "team_name": "胡雪涵",
+        "organization": "南阳师范学院",
+        "location": "613-6-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "胡雪涵",
+            null,
+            null
+        ]
+    },
+    "327011455": {
+        "team_id": "327011455",
+        "name": "奔赴山海哈哈",
+        "team_name": "王晋娴",
+        "organization": "南阳师范学院",
+        "location": "615-6-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王晋娴",
+            null,
+            null
+        ]
+    },
+    "884373034": {
+        "team_id": "884373034",
+        "name": "lry122310",
+        "team_name": "林若妤",
+        "organization": "南阳师范学院",
+        "location": "613-5-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "林若妤",
+            null,
+            null
+        ]
+    },
+    "328504556": {
+        "team_id": "328504556",
+        "name": "驴子嘻嘻",
+        "team_name": "齐宇",
+        "organization": "南阳师范学院",
+        "location": "615-1-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "齐宇",
+            null,
+            null
+        ]
+    },
+    "628064180": {
+        "team_id": "628064180",
+        "name": "小卤大人",
+        "team_name": "卢怡倩",
+        "organization": "南阳师范学院",
+        "location": "423-5-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "卢怡倩",
+            null,
+            null
+        ]
+    },
+    "408122588": {
+        "team_id": "408122588",
+        "name": "YL1209",
+        "team_name": "闫金超",
+        "organization": "南阳师范学院",
+        "location": "423-9-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "闫金超",
+            null,
+            null
+        ]
+    },
+    "585336574": {
+        "team_id": "585336574",
+        "name": "牛客585336574号",
+        "team_name": "陈孟怡",
+        "organization": "南阳师范学院",
+        "location": "423-2-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈孟怡",
+            null,
+            null
+        ]
+    },
+    "563703864": {
+        "team_id": "563703864",
+        "name": "tomolin",
+        "team_name": "王加宽",
+        "organization": "南阳师范学院",
+        "location": "613-6-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王加宽",
+            null,
+            null
+        ]
+    },
+    "186642324": {
+        "team_id": "186642324",
+        "name": "辻渃gc",
+        "team_name": "郭聪",
+        "organization": "南阳师范学院",
+        "location": "615-7-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭聪",
+            null,
+            null
+        ]
+    },
+    "190027598": {
+        "team_id": "190027598",
+        "name": "迷茫的火龙果a",
+        "team_name": "张顺顺",
+        "organization": "南阳师范学院",
+        "location": "615-7-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张顺顺",
+            null,
+            null
+        ]
+    },
+    "39317257": {
+        "team_id": "39317257",
+        "name": "菜洛洛",
+        "team_name": "王蕊蕊",
+        "organization": "南阳师范学院",
+        "location": "613-5-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王蕊蕊",
+            null,
+            null
+        ]
+    },
+    "232495423": {
+        "team_id": "232495423",
+        "name": "牛客232495423",
+        "team_name": "代晨湘",
+        "organization": "南阳师范学院",
+        "location": "420-7-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "代晨湘",
+            null,
+            null
+        ]
+    },
+    "30513967": {
+        "team_id": "30513967",
+        "name": "杨成义",
+        "team_name": "杨成义",
+        "organization": "南阳师范学院",
+        "location": "423-8-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "杨成义",
+            null,
+            null
+        ]
+    },
+    "922654391": {
+        "team_id": "922654391",
+        "name": "辞忧963",
+        "team_name": "苏志豪",
+        "organization": "南阳师范学院",
+        "location": "613-4-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "苏志豪",
+            null,
+            null
+        ]
+    },
+    "807581885": {
+        "team_id": "807581885",
+        "name": "JDQingLian",
+        "team_name": "王晓文",
+        "organization": "南阳师范学院",
+        "location": "420-3-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王晓文",
+            null,
+            null
+        ]
+    },
+    "99358981": {
+        "team_id": "99358981",
+        "name": "exhiliration",
+        "team_name": "牛峥",
+        "organization": "南阳师范学院",
+        "location": "615-6-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "牛峥",
+            null,
+            null
+        ]
+    },
+    "363584877": {
+        "team_id": "363584877",
+        "name": "lyt柒",
+        "team_name": "李艺甜",
+        "organization": "南阳师范学院",
+        "location": "420-7-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李艺甜",
+            null,
+            null
+        ]
+    },
+    "283137132": {
+        "team_id": "283137132",
+        "name": "牛Gocrazy",
+        "team_name": "娄典雅",
+        "organization": "南阳师范学院",
+        "location": "423-10-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "娄典雅",
+            null,
+            null
+        ]
+    },
+    "312329825": {
+        "team_id": "312329825",
+        "name": "骑着鱼的猫猫",
+        "team_name": "韦佳彤",
+        "organization": "南阳师范学院",
+        "location": "615-10-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "韦佳彤",
+            null,
+            null
+        ]
+    },
+    "503604820": {
+        "team_id": "503604820",
+        "name": "牜丨",
+        "team_name": "郭宁波",
+        "organization": "南阳师范学院",
+        "location": "420-7-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭宁波",
+            null,
+            null
+        ]
+    },
+    "962102822": {
+        "team_id": "962102822",
+        "name": "vv8_",
+        "team_name": "梁自立",
+        "organization": "南阳师范学院",
+        "location": "613-3-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "梁自立",
+            null,
+            null
+        ]
+    },
+    "409996885": {
+        "team_id": "409996885",
+        "name": "伊芙加登Colonel",
+        "team_name": "夏雨",
+        "organization": "南阳师范学院",
+        "location": "613-3-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "夏雨",
+            null,
+            null
+        ]
+    },
+    "323381384": {
+        "team_id": "323381384",
+        "name": "牛客323381384号",
+        "team_name": "姜士宇",
+        "organization": "南阳师范学院",
+        "location": "420-2-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "姜士宇",
+            null,
+            null
+        ]
+    },
+    "734112304": {
+        "team_id": "734112304",
+        "name": "煕煾",
+        "team_name": "宋采倪",
+        "organization": "南阳师范学院",
+        "location": "613-4-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "宋采倪",
+            null,
+            null
+        ]
+    },
+    "488714521": {
+        "team_id": "488714521",
+        "name": "长期熬夜的小辞",
+        "team_name": "栗嘉硕",
+        "organization": "南阳师范学院",
+        "location": "613-9-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "栗嘉硕",
+            null,
+            null
+        ]
+    },
+    "512887157": {
+        "team_id": "512887157",
+        "name": "q512887157",
+        "team_name": "李佳琪",
+        "organization": "南阳师范学院",
+        "location": "420-4-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李佳琪",
+            null,
+            null
+        ]
+    },
+    "653869963": {
+        "team_id": "653869963",
+        "name": "芝麻烤面包",
+        "team_name": "张曼彤",
+        "organization": "南阳师范学院",
+        "location": "613-10-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张曼彤",
+            null,
+            null
+        ]
+    },
+    "396410224": {
+        "team_id": "396410224",
+        "name": "敲代码好难",
+        "team_name": "李日豪",
+        "organization": "南阳师范学院",
+        "location": "420-10-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李日豪",
+            null,
+            null
+        ]
+    },
+    "354677555": {
+        "team_id": "354677555",
+        "name": "早点碎觉",
+        "team_name": "陈虹利",
+        "organization": "南阳师范学院",
+        "location": "420-8-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈虹利",
+            null,
+            null
+        ]
+    },
+    "378024729": {
+        "team_id": "378024729",
+        "name": "钱七安",
+        "team_name": "钱奕洁",
+        "organization": "南阳师范学院",
+        "location": "613-3-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "钱奕洁",
+            null,
+            null
+        ]
+    },
+    "619149645": {
+        "team_id": "619149645",
+        "name": "瞳喆珝",
+        "team_name": "许哲同",
+        "organization": "南阳师范学院",
+        "location": "613-5-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "许哲同",
+            null,
+            null
+        ]
+    },
+    "917519905": {
+        "team_id": "917519905",
+        "name": "琛珩",
+        "team_name": "马怡珩",
+        "organization": "南阳师范学院",
+        "location": "613-2-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "马怡珩",
+            null,
+            null
+        ]
+    },
+    "487019946": {
+        "team_id": "487019946",
+        "name": "牛客487019946号",
+        "team_name": "李蕊蕊",
+        "organization": "南阳师范学院",
+        "location": "615-3-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李蕊蕊",
+            null,
+            null
+        ]
+    },
+    "690704277": {
+        "team_id": "690704277",
+        "name": "柏林i",
+        "team_name": "汤欣宇",
+        "organization": "南阳师范学院",
+        "location": "613-2-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "汤欣宇",
+            null,
+            null
+        ]
+    },
+    "670338911": {
+        "team_id": "670338911",
+        "name": "挞挞大王",
+        "team_name": "赵梦凡",
+        "organization": "南阳师范学院",
+        "location": "615-7-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵梦凡",
+            null,
+            null
+        ]
+    },
+    "746520466": {
+        "team_id": "746520466",
+        "name": "无声照水",
+        "team_name": "刘瑞阳",
+        "organization": "南阳师范学院",
+        "location": "423-4-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘瑞阳",
+            null,
+            null
+        ]
+    },
+    "699526419": {
+        "team_id": "699526419",
+        "name": "金牌爷爷",
+        "team_name": "蓝晖健",
+        "organization": "南阳师范学院",
+        "location": "423-4-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "蓝晖健",
+            null,
+            null
+        ]
+    },
+    "968627600": {
+        "team_id": "968627600",
+        "name": "幸运降临k",
+        "team_name": "赵雅倩",
+        "organization": "南阳师范学院",
+        "location": "613-5-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵雅倩",
+            null,
+            null
+        ]
+    },
+    "44459699": {
+        "team_id": "44459699",
+        "name": "哈哈泥恏",
+        "team_name": "赵紫悦",
+        "organization": "南阳师范学院",
+        "location": "615-9-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵紫悦",
+            null,
+            null
+        ]
+    },
+    "404266976": {
+        "team_id": "404266976",
+        "name": "前程似锦的查理斯很坚定",
+        "team_name": "张凯",
+        "organization": "南阳师范学院",
+        "location": "423-1-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张凯",
+            null,
+            null
+        ]
+    },
+    "187577481": {
+        "team_id": "187577481",
+        "name": "Tikl1",
+        "team_name": "唐润轩",
+        "organization": "南阳师范学院",
+        "location": "423-2-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "唐润轩",
+            null,
+            null
+        ]
+    },
+    "948576733": {
+        "team_id": "948576733",
+        "name": "ZLibra040926",
+        "team_name": "朱国耀",
+        "organization": "南阳师范学院",
+        "location": "613-9-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱国耀",
+            null,
+            null
+        ]
+    },
+    "299417493": {
+        "team_id": "299417493",
+        "name": "Thelqr",
+        "team_name": "李奇睿",
+        "organization": "南阳师范学院",
+        "location": "423-2-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李奇睿",
+            null,
+            null
+        ]
+    },
+    "597896583": {
+        "team_id": "597896583",
+        "name": "Zhimengren",
+        "team_name": "谢紫豪",
+        "organization": "南阳师范学院",
+        "location": "420-9-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "谢紫豪",
+            null,
+            null
+        ]
+    },
+    "651607505": {
+        "team_id": "651607505",
+        "name": "牢大不想佐巴扬",
+        "team_name": "桂云飞",
+        "organization": "南阳师范学院",
+        "location": "423-6-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "桂云飞",
+            null,
+            null
+        ]
+    },
+    "491272661": {
+        "team_id": "491272661",
+        "name": "河南猪猪",
+        "team_name": "朱思诺",
+        "organization": "南阳师范学院",
+        "location": "615-6-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱思诺",
+            null,
+            null
+        ]
+    },
+    "284109355": {
+        "team_id": "284109355",
+        "name": "喜欢吃火锅的黑眼圈想要offer",
+        "team_name": "刘向佳",
+        "organization": "南阳师范学院",
+        "location": "613-6-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘向佳",
+            null,
+            null
+        ]
+    },
+    "134658932": {
+        "team_id": "134658932",
+        "name": "2256194_wei",
+        "team_name": "赵柯崴",
+        "organization": "南阳师范学院",
+        "location": "420-6-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵柯崴",
+            null,
+            null
+        ]
+    },
+    "228247220": {
+        "team_id": "228247220",
+        "name": "是烂白菜",
+        "team_name": "王会鑫",
+        "organization": "南阳师范学院",
+        "location": "615-3-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王会鑫",
+            null,
+            null
+        ]
+    },
+    "856881413": {
+        "team_id": "856881413",
+        "name": "耺叻",
+        "team_name": "尚子诺",
+        "organization": "南阳师范学院",
+        "location": "615-1-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "尚子诺",
+            null,
+            null
+        ]
+    },
+    "278544694": {
+        "team_id": "278544694",
+        "name": "becaseu",
+        "team_name": "高楚涵",
+        "organization": "南阳师范学院",
+        "location": "420-7-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高楚涵",
+            null,
+            null
+        ]
+    },
+    "735682824": {
+        "team_id": "735682824",
+        "name": "牛客735682824号",
+        "team_name": "刘达华",
+        "organization": "南阳师范学院",
+        "location": "420-7-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘达华",
+            null,
+            null
+        ]
+    },
+    "798386419": {
+        "team_id": "798386419",
+        "name": "牛客798386419号",
+        "team_name": "牛江波",
+        "organization": "南阳师范学院",
+        "location": "615-8-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "牛江波",
+            null,
+            null
+        ]
+    },
+    "78935944": {
+        "team_id": 78935944,
+        "name": "嘉南岁安",
+        "team_name": "孙嘉苑",
+        "organization": "南阳师范学院",
+        "location": "615-4-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "孙嘉苑",
+            null,
+            null
+        ]
+    },
+    "700420049": {
+        "team_id": "700420049",
+        "name": "光之国最年轻的战士",
+        "team_name": "董琳凯",
+        "organization": "南阳师范学院",
+        "location": "420-2-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "董琳凯",
+            null,
+            null
+        ]
+    },
+    "723780147": {
+        "team_id": "723780147",
+        "name": "高大小",
+        "team_name": "高坊钰",
+        "organization": "南阳师范学院",
+        "location": "615-2-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高坊钰",
+            null,
+            null
+        ]
+    },
+    "502780137": {
+        "team_id": "502780137",
+        "name": "雨迷离",
+        "team_name": "王琳",
+        "organization": "南阳师范学院",
+        "location": "613-5-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王琳",
+            null,
+            null
+        ]
+    },
+    "43330097": {
+        "team_id": "43330097",
+        "name": "超级无敌算法大王",
+        "team_name": "董立鹏",
+        "organization": "南阳师范学院",
+        "location": "615-2-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "董立鹏",
+            null,
+            null
+        ]
+    },
+    "667847972": {
+        "team_id": "667847972",
+        "name": "汤圆吃不完",
+        "team_name": "郭浩宇",
+        "organization": "南阳师范学院",
+        "location": "613-6-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭浩宇",
+            null,
+            null
+        ]
+    },
+    "422085172": {
+        "team_id": "422085172",
+        "name": "Magnolia7",
+        "team_name": "李芫烨",
+        "organization": "南阳师范学院",
+        "location": "615-5-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李芫烨",
+            null,
+            null
+        ]
+    },
+    "450582855": {
+        "team_id": "450582855",
+        "name": "Aurora012",
+        "team_name": "麻堡",
+        "organization": "南阳师范学院",
+        "location": "420-10-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "麻堡",
+            null,
+            null
+        ]
+    },
+    "945926999": {
+        "team_id": "945926999",
+        "name": "牛客945926999号",
+        "team_name": "赵静一",
+        "organization": "南阳师范学院",
+        "location": "423-5-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵静一",
+            null,
+            null
+        ]
+    },
+    "778405643": {
+        "team_id": "778405643",
+        "name": "xuxxxx",
+        "team_name": "陈旭",
+        "organization": "南阳师范学院",
+        "location": "423-2-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈旭",
+            null,
+            null
+        ]
+    },
+    "799309750": {
+        "team_id": "799309750",
+        "name": "九妩",
+        "team_name": "龚家莹",
+        "organization": "南阳师范学院",
+        "location": "615-9-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "龚家莹",
+            null,
+            null
+        ]
+    },
+    "272078691": {
+        "team_id": "272078691",
+        "name": "在debug的小刺猬很聪敏",
+        "team_name": "王磊",
+        "organization": "南阳师范学院",
+        "location": "420-3-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王磊",
+            null,
+            null
+        ]
+    },
+    "737805286": {
+        "team_id": "737805286",
+        "name": "OMG_陈",
+        "team_name": "陈静爽",
+        "organization": "南阳师范学院",
+        "location": "423-2-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "陈静爽",
+            null,
+            null
+        ]
+    },
+    "448180863": {
+        "team_id": "448180863",
+        "name": "赚钱犁地写java",
+        "team_name": "黄盛江",
+        "organization": "南阳师范学院",
+        "location": "423-3-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "黄盛江",
+            null,
+            null
+        ]
+    },
+    "765039983": {
+        "team_id": "765039983",
+        "name": "一只小小鸟1",
+        "team_name": "段瑞光",
+        "organization": "南阳师范学院",
+        "location": "420-2-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "段瑞光",
+            null,
+            null
+        ]
+    },
+    "419569145": {
+        "team_id": "419569145",
+        "name": "想回家的小冤种就要上岸了",
+        "team_name": "王晓妍",
+        "organization": "南阳师范学院",
+        "location": "613-1-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王晓妍",
+            null,
+            null
+        ]
+    },
+    "881120712": {
+        "team_id": "881120712",
+        "name": "正在背八股的小鲸鱼很有气魄",
+        "team_name": "王利平",
+        "organization": "南阳师范学院",
+        "location": "613-2-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王利平",
+            null,
+            null
+        ]
+    },
+    "478638456": {
+        "team_id": "478638456",
+        "name": "好运来15",
+        "team_name": "王火荣",
+        "organization": "南阳师范学院",
+        "location": "420-3-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王火荣",
+            null,
+            null
+        ]
+    },
+    "236567977": {
+        "team_id": "236567977",
+        "name": "田锦慧",
+        "team_name": "田锦慧",
+        "organization": "南阳师范学院",
+        "location": "423-10-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "田锦慧",
+            null,
+            null
+        ]
+    },
+    "363660817": {
+        "team_id": "363660817",
+        "name": "_002582",
+        "team_name": "金鸿均",
+        "organization": "南阳师范学院",
+        "location": "420-6-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "金鸿均",
+            null,
+            null
+        ]
+    },
+    "177871699": {
+        "team_id": "177871699",
+        "name": "牛客网牛马",
+        "team_name": "高昭彦",
+        "organization": "南阳师范学院",
+        "location": "613-2-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高昭彦",
+            null,
+            null
+        ]
+    },
+    "86808979": {
+        "team_id": "86808979",
+        "name": "牛客86808979号",
+        "team_name": "丁嘉豪",
+        "organization": "南阳师范学院",
+        "location": "420-5-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "丁嘉豪",
+            null,
+            null
+        ]
+    },
+    "870094236": {
+        "team_id": "870094236",
+        "name": "牛客870094236号",
+        "team_name": "吴昊博",
+        "organization": "南阳师范学院",
+        "location": "615-3-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴昊博",
+            null,
+            null
+        ]
+    },
+    "898177906": {
+        "team_id": "898177906",
+        "name": "牛客898177906号",
+        "team_name": "赵淑怡",
+        "organization": "南阳师范学院",
+        "location": "613-5-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵淑怡",
+            null,
+            null
+        ]
+    },
+    "709688007": {
+        "team_id": "709688007",
+        "name": "牛客709688007号",
+        "team_name": "任梦媛",
+        "organization": "南阳师范学院",
+        "location": "420-10-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "任梦媛",
+            null,
+            null
+        ]
+    },
+    "436062593": {
+        "team_id": "436062593",
+        "name": "yanlllying",
+        "team_name": "闫乐莹",
+        "organization": "南阳师范学院",
+        "location": "420-9-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "闫乐莹",
+            null,
+            null
+        ]
+    },
+    "780122814": {
+        "team_id": "780122814",
+        "name": "比丁真还纯真",
+        "team_name": "郭东航",
+        "organization": "南阳师范学院",
+        "location": "423-6-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郭东航",
+            null,
+            null
+        ]
+    },
+    "231259040": {
+        "team_id": "231259040",
+        "name": "予zyh",
+        "team_name": "张宇涵",
+        "organization": "南阳师范学院",
+        "location": "420-7-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张宇涵",
+            null,
+            null
+        ]
+    },
+    "164479892": {
+        "team_id": "164479892",
+        "name": "牛客164479892号",
+        "team_name": "董超瑞",
+        "organization": "南阳师范学院",
+        "location": "615-3-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "董超瑞",
+            null,
+            null
+        ]
+    },
+    "788002802": {
+        "team_id": "788002802",
+        "name": "zhangyi12138",
+        "team_name": "张毅",
+        "organization": "南阳师范学院",
+        "location": "615-10-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张毅",
+            null,
+            null
+        ]
+    },
+    "648111745": {
+        "team_id": "648111745",
+        "name": "yemo101",
+        "team_name": "岳智彬",
+        "organization": "南阳师范学院",
+        "location": "615-1-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "岳智彬",
+            null,
+            null
+        ]
+    },
+    "165169689": {
+        "team_id": "165169689",
+        "name": "9白",
+        "team_name": "白锦航",
+        "organization": "南阳师范学院",
+        "location": "420-7-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "白锦航",
+            null,
+            null
+        ]
+    },
+    "314910403": {
+        "team_id": "314910403",
+        "name": "去银行整点金条_",
+        "team_name": "古益菡",
+        "organization": "南阳师范学院",
+        "location": "615-4-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "古益菡",
+            null,
+            null
+        ]
+    },
+    "534601910": {
+        "team_id": "534601910",
+        "name": "诗卓西风",
+        "team_name": "高晟皓",
+        "organization": "南阳师范学院",
+        "location": "423-1-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高晟皓",
+            null,
+            null
+        ]
+    },
+    "587991705": {
+        "team_id": "587991705",
+        "name": "1027bb",
+        "team_name": "隆益彬",
+        "organization": "南阳师范学院",
+        "location": "613-5-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "隆益彬",
+            null,
+            null
+        ]
+    },
+    "976521239": {
+        "team_id": "976521239",
+        "name": "牛客976521239号",
+        "team_name": "朱怡乐",
+        "organization": "南阳师范学院",
+        "location": "420-3-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "朱怡乐",
+            null,
+            null
+        ]
+    },
+    "793222631": {
+        "team_id": "793222631",
+        "name": "shacklefate",
+        "team_name": "张佳艺",
+        "organization": "南阳师范学院",
+        "location": "420-4-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张佳艺",
+            null,
+            null
+        ]
+    },
+    "190157164": {
+        "team_id": "190157164",
+        "name": "NYNYSakura",
+        "team_name": "顾一洺",
+        "organization": "南阳师范学院",
+        "location": "615-1-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "顾一洺",
+            null,
+            null
+        ]
+    },
+    "779882759": {
+        "team_id": "779882759",
+        "name": "不服输的懒羊羊很友好",
+        "team_name": "曾祎飞",
+        "organization": "南阳师范学院",
+        "location": "613-10-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "曾祎飞",
+            null,
+            null
+        ]
+    },
+    "880254159": {
+        "team_id": "880254159",
+        "name": "栀子aa",
+        "team_name": "王梦福",
+        "organization": "南阳师范学院",
+        "location": "615-1-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王梦福",
+            null,
+            null
+        ]
+    },
+    "730276749": {
+        "team_id": "730276749",
+        "name": "素悦",
+        "team_name": "王骢融",
+        "organization": "南阳师范学院",
+        "location": "613-4-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王骢融",
+            null,
+            null
+        ]
+    },
+    "185798012": {
+        "team_id": "185798012",
+        "name": "馒头军团",
+        "team_name": "王子敬",
+        "organization": "南阳师范学院",
+        "location": "423-7-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王子敬",
+            null,
+            null
+        ]
+    },
+    "598433948": {
+        "team_id": "598433948",
+        "name": "哈哈哈哈飞飞",
+        "team_name": "李鹏飞",
+        "organization": "南阳师范学院",
+        "location": "420-2-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李鹏飞",
+            null,
+            null
+        ]
+    },
+    "524341637": {
+        "team_id": "524341637",
+        "name": "吃瓜的大师兄",
+        "team_name": "王乾宇",
+        "organization": "南阳师范学院",
+        "location": "423-4-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王乾宇",
+            null,
+            null
+        ]
+    },
+    "612293574": {
+        "team_id": "612293574",
+        "name": "hhhh_m",
+        "team_name": "晁梦涵",
+        "organization": "南阳师范学院",
+        "location": "613-9-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "晁梦涵",
+            null,
+            null
+        ]
+    },
+    "430538868": {
+        "team_id": "430538868",
+        "name": "黄佬的小迷弟3号",
+        "team_name": "熊泽昱",
+        "organization": "南阳师范学院",
+        "location": "613-9-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "熊泽昱",
+            null,
+            null
+        ]
+    },
+    "204038337": {
+        "team_id": "204038337",
+        "name": "祈罪",
+        "team_name": "安振博",
+        "organization": "南阳师范学院",
+        "location": "420-3-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "安振博",
+            null,
+            null
+        ]
+    },
+    "211203916": {
+        "team_id": "211203916",
+        "name": "迪迪迪迪迦",
+        "team_name": "郑嘉乐",
+        "organization": "南阳师范学院",
+        "location": "613-4-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郑嘉乐",
+            null,
+            null
+        ]
+    },
+    "138461383": {
+        "team_id": "138461383",
+        "name": "奥利给c",
+        "team_name": "周知立",
+        "organization": "南阳师范学院",
+        "location": "420-5-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周知立",
+            null,
+            null
+        ]
+    },
+    "916430342": {
+        "team_id": "916430342",
+        "name": "NYUT_24_吴永锐",
+        "team_name": "吴永锐",
+        "organization": "南阳师范学院",
+        "location": "613-8-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴永锐",
+            null,
+            null
+        ]
+    },
+    "512555533": {
+        "team_id": "512555533",
+        "name": "小飞会飞",
+        "team_name": "张梦雪",
+        "organization": "南阳师范学院",
+        "location": "613-1-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张梦雪",
+            null,
+            null
+        ]
+    },
+    "920294914": {
+        "team_id": "920294914",
+        "name": "踏实的赖床专家在冲浪",
+        "team_name": "周雯晴",
+        "organization": "南阳师范学院",
+        "location": "420-2-6",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周雯晴",
+            null,
+            null
+        ]
+    },
+    "443045238": {
+        "team_id": "443045238",
+        "name": "切薯片",
+        "team_name": "刘震",
+        "organization": "南阳师范学院",
+        "location": "613-9-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘震",
+            null,
+            null
+        ]
+    },
+    "556958185": {
+        "team_id": "556958185",
+        "name": "牛客556958185号",
+        "team_name": "周梦圆",
+        "organization": "南阳师范学院",
+        "location": "423-6-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "周梦圆",
+            null,
+            null
+        ]
+    },
+    "723894329": {
+        "team_id": "723894329",
+        "name": "EmmmJX",
+        "team_name": "刘嘉欣",
+        "organization": "南阳师范学院",
+        "location": "613-1-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘嘉欣",
+            null,
+            null
+        ]
+    },
+    "366418484": {
+        "team_id": "366418484",
+        "name": "wastonnn",
+        "team_name": "赵庆硕",
+        "organization": "南阳师范学院",
+        "location": "420-5-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵庆硕",
+            null,
+            null
+        ]
+    },
+    "981556500": {
+        "team_id": "981556500",
+        "name": "吴燕明",
+        "team_name": "吴燕明",
+        "organization": "南阳师范学院",
+        "location": "613-7-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴燕明",
+            null,
+            null
+        ]
+    },
+    "868344009": {
+        "team_id": 868344009,
+        "name": "只会Hello不会World",
+        "team_name": "王恺宇",
+        "organization": "南阳师范学院",
+        "location": "613-6-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "王恺宇",
+            null,
+            null
+        ]
+    },
+    "168619097": {
+        "team_id": "168619097",
+        "name": "好奇的山羊在冲浪",
+        "team_name": "姚勤翔",
+        "organization": "南阳师范学院",
+        "location": "423-5-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "姚勤翔",
+            null,
+            null
+        ]
+    },
+    "602022304": {
+        "team_id": "602022304",
+        "name": "牛客602022304号",
+        "team_name": "刘春雨",
+        "organization": "南阳师范学院",
+        "location": "420-6-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "刘春雨",
+            null,
+            null
+        ]
+    },
+    "65401909": {
+        "team_id": 65401909,
+        "name": "啊哈哈哈啊哈哈",
+        "team_name": "貌静娴",
+        "organization": "南阳师范学院",
+        "location": "423-7-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "貌静娴",
+            null,
+            null
+        ]
+    },
+    "227636035": {
+        "team_id": 227636035,
+        "name": "还是想躺平的羚羊很纠结",
+        "team_name": "田明莉",
+        "organization": "南阳师范学院",
+        "location": "613-1-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "田明莉",
+            null,
+            null
+        ]
+    },
+    "86430416": {
+        "team_id": 86430416,
+        "name": "啥掉",
+        "team_name": "李杰",
+        "organization": "南阳师范学院",
+        "location": "423-10-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李杰",
+            null,
+            null
+        ]
+    },
+    "253205209": {
+        "team_id": 253205209,
+        "name": "Jack_G",
+        "team_name": "高铭震",
+        "organization": "南阳师范学院",
+        "location": "420-5-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "高铭震",
+            null,
+            null
+        ]
+    },
+    "865076312": {
+        "team_id": 865076312,
+        "name": "想交流的小熊猫很爱看剧",
+        "team_name": "张海琳",
+        "organization": "南阳师范学院",
+        "location": "615-2-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张海琳",
+            null,
+            null
+        ]
+    },
+    "490501408": {
+        "team_id": 490501408,
+        "name": "夏缅半璧",
+        "team_name": "吴江楠",
+        "organization": "南阳师范学院",
+        "location": "423-4-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吴江楠",
+            null,
+            null
+        ]
+    },
+    "473535511": {
+        "team_id": 473535511,
+        "name": "牛客473535511号",
+        "team_name": "赵庆庆",
+        "organization": "南阳师范学院",
+        "location": "423-7-4",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "赵庆庆",
+            null,
+            null
+        ]
+    },
+    "460847760": {
+        "team_id": 460847760,
+        "name": "剑斩山风",
+        "team_name": "吕剑岚",
+        "organization": "南阳师范学院",
+        "location": "423-6-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "吕剑岚",
+            null,
+            null
+        ]
+    },
+    "709371849": {
+        "team_id": 709371849,
+        "name": "牛客709371849号",
+        "team_name": "马品",
+        "organization": "南阳师范学院",
+        "location": "615-8-5",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "马品",
+            null,
+            null
+        ]
+    },
+    "382762368": {
+        "team_id": 382762368,
+        "name": "喔喔窝窝",
+        "team_name": "郑华杰",
+        "organization": "南阳师范学院",
+        "location": "420-1-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "郑华杰",
+            null,
+            null
+        ]
+    },
+    "110446602": {
+        "team_id": 110446602,
+        "name": 22560140212,
+        "team_name": "张影",
+        "organization": "南阳师范学院",
+        "location": "423-7-7",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张影",
+            null,
+            null
+        ]
+    },
+    "881410476": {
+        "team_id": 881410476,
+        "name": "星佑a",
+        "team_name": "马钧傲",
+        "organization": "南阳师范学院",
+        "location": "420-8-1",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "马钧傲",
+            null,
+            null
+        ]
+    },
+    "942396003": {
+        "team_id": 942396003,
+        "name": "企企怪怪",
+        "team_name": "效晗祺",
+        "organization": "南阳师范学院",
+        "location": "420-2-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "效晗祺",
+            null,
+            null
+        ]
+    },
+    "259032404": {
+        "team_id": 259032404,
+        "name": "Paopao_ooo",
+        "team_name": "任威豪",
+        "organization": "南阳师范学院",
+        "location": "613-4-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "任威豪",
+            null,
+            null
+        ]
+    },
+    "554413316": {
+        "team_id": 554413316,
+        "name": "牛客554413316",
+        "team_name": "张锦玉",
+        "organization": "南阳师范学院",
+        "location": "613-3-8",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "张锦玉",
+            null,
+            null
+        ]
+    },
+    "269335088": {
+        "team_id": 269335088,
+        "name": "盼贺贺",
+        "team_name": "李贺",
+        "organization": "南阳师范学院",
+        "location": "423-10-3",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "李贺",
+            null,
+            null
+        ]
+    },
+    "413138593": {
+        "team_id": 413138593,
+        "name": "goodup",
+        "team_name": "贾艺帆",
+        "organization": "南阳师范学院",
+        "location": "613-8-9",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "贾艺帆",
+            null,
+            null
+        ]
+    },
+    "242815211": {
+        "team_id": 242815211,
+        "name": "信仰CR7",
+        "team_name": "霍国亮",
+        "organization": "南阳师范学院",
+        "location": "615-1-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "霍国亮",
+            null,
+            null
+        ]
+    },
+    "821048844": {
+        "team_id": 821048844,
+        "name": "Stuff_",
+        "team_name": "韩雨",
+        "organization": "南阳师范学院",
+        "location": "615-3-2",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "韩雨",
+            null,
+            null
+        ]
+    },
+    "511655480": {
+        "team_id": 511655480,
+        "name": "码农小睿",
+        "team_name": "薛睿",
+        "organization": "南阳师范学院",
+        "location": "423-2-10",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": null,
+        "members": [
+            "薛睿",
+            null,
+            null
+        ]
+    }
+}
