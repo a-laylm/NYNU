@@ -1,0 +1,42 @@
+{"type": "state","data": {},"token": "cdT0"}
+{"type": "contest", "id": "1830935881845493760", "data": {"id": "1830935881845493760", "name": "2024 NYNU\u65b0\u751f\u8d5b\u6b63\u5f0f\u8d5b", "formal_name": "2024 NYNU\u65b0\u751f\u8d5b\u6b63\u5f0f\u8d5b", "start_time": "2024-09-03T19:48:00.000+08:00", "duration": "00:47:00.000", "scoreboard_freeze_duration": "00:10:00.000", "penalty_time": 20, "scoreboard_type": "pass-fail"}, "token": "cdT1"}
+{"type": "judgement-types", "id": "AC", "data": {"id": "AC", "name": "Yes - Accepted", "penalty": "false", "solved": "true"}, "token": "cdT2"}
+{"type": "judgement-types", "id": "WA", "data": {"id": "WA", "name": "No - Wrong Answer", "penalty": "true", "solved": "false"}, "token": "cdT3"}
+{"type": "judgement-types", "id": "TLE", "data": {"id": "TLE", "name": "No - Time Limit Exceeded", "penalty": "true", "solved": "false"}, "token": "cdT4"}
+{"type": "judgement-types", "id": "NZEC", "data": {"id": "NZEC", "name": "No - Non Zero Exit Code", "penalty": "true", "solved": "false"}, "token": "cdT5"}
+{"type": "judgement-types", "id": "CE", "data": {"id": "CE", "name": "No - Compile Error", "penalty": "false", "solved": "false"}, "token": "cdT6"}
+{"type": "judgement-types", "id": "PE", "data": {"id": "PE", "name": "No - Presentation Error", "penalty": "true", "solved": "false"}, "token": "cdT7"}
+{"type": "judgement-types", "id": "SF", "data": {"id": "SF", "name": "No - Segmentation Fault", "penalty": "true", "solved": "false"}, "token": "cdT8"}
+{"type": "judgement-types", "id": "MLE", "data": {"id": "MLE", "name": "No - Memory Limit Exceeded", "penalty": "true", "solved": "false"}, "token": "cdT9"}
+{"type": "judgement-types", "id": "RE", "data": {"id": "RE", "name": "No - Runtime Error", "penalty": "true", "solved": "false"}, "token": "cdT10"}
+{"type": "judgement-types", "id": "OLE", "data": {"id": "OLE", "name": "No - Output Limit Exceeded", "penalty": "true", "solved": "false"}, "token": "cdT11"}
+{"type": "languages", "id": "1", "data": {"id": "1", "name": "C", "entry_point_required": false}, "token": "cdT12"}
+{"type": "languages", "id": "2", "data": {"id": "2", "name": "C++", "entry_point_required": false}, "token": "cdT13"}
+{"type": "languages", "id": "3", "data": {"id": "3", "name": "Java", "entry_point_required": false}, "token": "cdT14"}
+{"type": "languages", "id": "4", "data": {"id": "4", "name": "Python", "entry_point_required": false}, "token": "cdT15"}
+{"type": "languages", "id": "5", "data": {"id": "5", "name": "Other Language", "entry_point_required": false}, "token": "cdT16"}
+{"type": "problems", "id": "1", "data": {"id": "1", "label": "A", "name": "\u8eab\u4efd\u8bc1\u8bfb\u53d6\u51fa\u751f\u5730\u533a", "uuid": "1", "ordinal": "1", "color": "A\u6a59\u8272", "rgb": "#dc8244"}, "token": "cdT17"}
+{"type": "problems", "id": "2", "data": {"id": "2", "label": "B", "name": "\u7d20\u6570\u6587\u4ef6\u4fdd\u5b58", "uuid": "2", "ordinal": "2", "color": "B\u84dd\u8272", "rgb": "#4f70bd"}, "token": "cdT18"}
+{"type": "problems", "id": "3", "data": {"id": "3", "label": "C", "name": "\u5173\u952e\u5b57\u8bc6\u522b", "uuid": "3", "ordinal": "3", "color": "C\u9ec4\u8272", "rgb": "#fdff54"}, "token": "cdT19"}
+{"type": "problems", "id": "4", "data": {"id": "4", "label": "D", "name": "\u4f53\u80fd\u6210\u7ee9\u6587\u4ef6\u8bfb\u53d6\u5e76\u8ba1\u7b97", "uuid": "4", "ordinal": "4", "color": "D\u7eff\u8272", "rgb": "#4fac5c"}, "token": "cdT20"}
+{"type": "problems", "id": "5", "data": {"id": "5", "label": "E", "name": "\u7a7a\u74f6\u6362\u6c34", "uuid": "5", "ordinal": "5", "color": "E\u6d45\u7eff\u8272", "rgb": "#9ecd63"}, "token": "cdT21"}
+{"type": "problems", "id": "6", "data": {"id": "6", "label": "F", "name": "\u5408\u5531\u961f\u5f62", "uuid": "6", "ordinal": "6", "color": "F\u6df1\u7d2b\u8272", "rgb": "#5d0d62"}, "token": "cdT22"}
+{"type": "problems", "id": "7", "data": {"id": "7", "label": "G", "name": "\u7b2ck\u4e2a\u6570(number)", "uuid": "7", "ordinal": "7", "color": "G\u7ea2\u8272", "rgb": "#e93423"}, "token": "cdT23"}
+{"type": "problems", "id": "8", "data": {"id": "8", "label": "H", "name": "\u9636\u4e58\u3002", "uuid": "8", "ordinal": "8", "color": "H\u58a8\u7eff\u8272", "rgb": "#3d5428"}, "token": "cdT24"}
+{"type": "problems", "id": "9", "data": {"id": "9", "label": "I", "name": "\u5e86\u795d\u72ec\u7acb\u7f16\u7a0b", "uuid": "9", "ordinal": "9", "color": "I\u6d45\u84dd\u8272", "rgb": "#4eacea"}, "token": "cdT25"}
+{"type": "problems", "id": "10", "data": {"id": "10", "label": "J", "name": "\u8f93\u5165\u59d3\u6c0f", "uuid": "10", "ordinal": "10", "color": "J\u7d2b\u8272", "rgb": "#bb27f5"}, "token": "cdT26"}
+{"type": "problems", "id": "11", "data": {"id": "11", "label": "K", "name": "\u4e58\u79ef\u8fd0\u7b97", "uuid": "11", "ordinal": "11", "color": "K\u7c89\u8272", "rgb": "#ef70c9"}, "token": "cdT27"}
+{"type": "problems", "id": "12", "data": {"id": "12", "label": "L", "name": "\t\u7b97\u4e58\u65b9\u7684\u725b(cattle)", "uuid": "12", "ordinal": "12", "color": "L\u73ab\u7ea2\u8272", "rgb": "#ef7049"}, "token": "cdT28"}
+{"type": "groups", "id": "1", "data": {"id": "1", "name": "\u6bd4\u8d5b\u961f\u4f0d"}, "token": "cdT29"}
+{"type": "teams", "id": "1449606932306124800", "data": {"id": "1449606932306124800", "name": "ssss", "group_ids": ["1"], "university": "\u5357\u9633\u5e08\u8303"}, "token": "cdT30"}
+{"type": "teams", "id": "1636313328664903680", "data": {"id": "1636313328664903680", "name": "ac", "group_ids": ["1"], "university": "\u5357\u9633\u5e08\u8303"}, "token": "cdT31"}
+{"type": "teams", "id": "1638803881335095296", "data": {"id": "1638803881335095296", "name": "\u5403\u85af\u6761\u7684\u54a9\u9171", "group_ids": ["1"], "university": "\u5357\u9633\u5e08\u8303"}, "token": "cdT32"}
+{"type": "teams", "id": "1648642656034725888", "data": {"id": "1648642656034725888", "name": "TL", "group_ids": ["1"], "university": "\u5357\u9633\u5e08\u8303"}, "token": "cdT33"}
+{"type": "submissions", "id": "1830947469415440384", "data": {"id": "1830947469415440384", "problem_id": "8", "team_id": "1638803881335095296", "language_id": "C++", "files": [], "contest_time": "00:46:28.000", "time": "1970-01-21T08:02:32.080+08:00"}, "token": "cdT34"}
+{"type": "judgements", "id": "1830947469415440384", "data": {"id": "1830947469415440384", "submission_id": "1830947469415440384", "judgement_type_id": "RE", "start_contest_time": "00:46:28.000", "start_time": "1970-01-21T08:02:32.080+08:00", "score": 0.0}, "token": "cdT35"}
+{"type": "submissions", "id": "1830939193512620032", "data": {"id": "1830939193512620032", "problem_id": "3", "team_id": "1638803881335095296", "language_id": "C++", "files": [], "contest_time": "00:13:35.000", "time": "1970-01-21T07:29:39.080+08:00"}, "token": "cdT36"}
+{"type": "judgements", "id": "1830939193512620032", "data": {"id": "1830939193512620032", "submission_id": "1830939193512620032", "judgement_type_id": "CE", "start_contest_time": "00:13:35.000", "start_time": "1970-01-21T07:29:39.080+08:00", "score": 0.0}, "token": "cdT37"}
+{"type": "submissions", "id": "1830937771819831296", "data": {"id": "1830937771819831296", "problem_id": "2", "team_id": "1638803881335095296", "language_id": "C++", "files": [], "contest_time": "00:07:56.000", "time": "1970-01-21T07:24:00.080+08:00"}, "token": "cdT38"}
+{"type": "judgements", "id": "1830937771819831296", "data": {"id": "1830937771819831296", "submission_id": "1830937771819831296", "judgement_type_id": "AC", "start_contest_time": "00:07:56.000", "start_time": "1970-01-21T07:24:00.080+08:00", "score": 300.0}, "token": "cdT39"}
+{"type":"state","data":{"started": "2024-09-03T19:48:00.000+08:00", "frozen": "2024-09-03T20:25:00.000+08:00","thawed":"2024-09-04T20:25:00.000+08:00","finalized":"2024-09-03T20:35:00.000+08:00"},"token":"cdT40"}
+{"type":"state","data":{"started":"2024-09-03T19:48:00.000+08:00","ended":"2024-09-03T20:35:00.000+08:00","frozen":"2024-09-03T20:25:00.000+08:00","thawed":"2024-09-04T20:25:00.000+08:00","finalized":"2024-09-03T20:35:00.000+08:00","end_of_updates":"2024-09-03T20:35:00.000+08:00"},"token":"cdT41"}
